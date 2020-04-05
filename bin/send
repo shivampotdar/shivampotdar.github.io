@@ -9,7 +9,7 @@ git commit -m 'updating site'
 git push origin master
 
 # copy files into serving site folder
-cp -r _site/* ../username.github.io
+cp -r _site/* ../shivampotdar.github.io
 
 # move to serving folder 
 cd ../shivampotdar.github.io
