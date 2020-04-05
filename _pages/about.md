@@ -1,18 +1,17 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Shivam</strong> Potdar
+description: <a href="">Senior Year EE Undergrad @ NITK, India</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>National Institute of Technology Karnataka, Surathkal</p>
+    <p>Mangalore, KA - 575025</p>
 
-news: true
+news: false
 social: true
 ---
 
