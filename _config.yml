@@ -8,7 +8,6 @@ middle_name: Mahesh
 last_name: Potdar
 email: shivampotdar99@gmail.com
 description: > # this means to ignore newlines until "url:"
-
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: September 2020 # set to true if you want to display last updated in the footer
@@ -20,6 +19,7 @@ last_updated: September 2020 # set to true if you want to display last updated i
 navbar_fixed: true
 footer_fixed: true
 # TODO: add layout settings (single page vs. multi-page)
+
 
 # -----------------------------------------------------------------------------
 # Open Graph
