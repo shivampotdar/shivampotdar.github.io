@@ -1,18 +1,17 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Shivam Potdar
+name: Shivam Mahesh Potdar
 email: hello@shivampotdar.me
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+last_updated: April 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -20,14 +19,14 @@ last_updated: # leave blank if you don't want to display last updated
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: shivampotdar # your GitHub user name
 twitter_username: shivampotdar99 # your Twitter handle
-linkedin_username: shivampotdar00 # your LinkedIn user name
+linkedin_username: shivampotdar99 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-8257-7166 # your ORCID ID
 medium_username: # your Medium username
