@@ -7,8 +7,12 @@ layout: default
   <h2>{{ site.blog_description }}</h2>
 </div>
 
+<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shivampotdar99","postsPerLine":2,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
 
-<ul class="post-list">
+
+<!--<ul class="post-list">
   {% for post in paginator.posts %}
     <li>
       <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -17,5 +21,5 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-
+-->
 {% include pagination.html %}
