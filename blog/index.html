@@ -5,11 +5,12 @@ layout: default
 <div class="header-bar">
   <h1>{{ site.blog_name }}</h1>
   <h2>{{ site.blog_description }}</h2>
+  <h6>Please note that these links take you to Medium, an external site.</h6>
 </div>
 
 <div id="medium-widget"></div>
     <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shivampotdar99","postsPerLine":2,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shivampotdar99","postsPerLine":2,"limit":100,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
 
 
 <!--<ul class="post-list">
@@ -21,5 +22,5 @@ layout: default
     </li>
   {% endfor %}
 </ul>
--->
-{% include pagination.html %}
+
+{% include pagination.html %}-->

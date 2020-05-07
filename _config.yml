@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Shivam Mahesh Potdar
-email: hello@shivampotdar.me
+email: shivampotdar99@gmail.com
 description: > # this means to ignore newlines until "url:"
   Shivam's Personal Website - Bio and Projects Portfolio
 footer_text: >
@@ -10,7 +10,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: April 2020 # leave blank if you don't want to display last updated
+last_updated: May 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -28,7 +28,7 @@ twitter_username: shivampotdar99 # your Twitter handle
 linkedin_username: shivampotdar99 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-8257-7166 # your ORCID ID
-medium_username: # your Medium username
+medium_username: shivampotdar99 # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Shivam_Potdar # your profile on ResearchGate
@@ -42,7 +42,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: curiosity
-blog_description: my two cents on interesting stuff around us
+blog_description: my pieces of writing, mostly technical
 
 # Pagination
 paginate: 4
@@ -55,7 +55,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: shivampotdar # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 
 # Optional features
 show_social_icons:  true
