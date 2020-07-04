@@ -7,9 +7,7 @@ description: <a href="">Senior Year EE Undergrad @ NITK, India</a>
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>NIT Karnataka, Surathkal</p>
-    <p>Mangalore, KA - 575025</p>
+  address:
 
 news: false
 social: true
