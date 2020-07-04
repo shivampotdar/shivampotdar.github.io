@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Brief Bio:
-
 - Hardware enthusiast interested in Computer Architecture and Digital VLSI.
 
 - Senior (4th Year) Bachelor of Technology (BTech) in Electrical and Electronics Engineering at the [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in/).
