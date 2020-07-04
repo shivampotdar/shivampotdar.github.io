@@ -41,8 +41,8 @@ google_analytics: UA-165884310-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: curiosity
-blog_description: my pieces of writing, mostly technical
+blog_name: Curiosity
+blog_description: I write on Medium sometimes :)
 
 # Pagination
 paginate: 4

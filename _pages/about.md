@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Shivam</strong> Mahesh Potdar
-description: <a href="">Junior Year EE Undergrad @ NITK, India</a>
+description: <a href="">Senior Year EE Undergrad @ NITK, India</a>
 
 profile:
   align: right
@@ -14,8 +14,6 @@ profile:
 news: false
 social: true
 ---
-
-Brief Bio:
 
 - Hardware enthusiast interested in Computer Architecture and Digital VLSI.
 
