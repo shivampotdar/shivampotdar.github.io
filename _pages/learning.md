@@ -4,6 +4,7 @@ permalink: /learning/
 title: learning
 description: Links to great course materials I have followed in the past.
 datatable: true
+nav: true
 ---
 
 <table id="tabled_id" class="display">
@@ -41,8 +42,8 @@ datatable: true
 window.onload = function()
 {
     $('#tabled_id').DataTable({
-        paging: false,
-        searching: false,
+        paging: true,
+        searching: true,
         autoWidth: true
         }); 
 }

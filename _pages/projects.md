@@ -47,6 +47,6 @@ Coming soon...
 
 </div>
 
-{% endif %}
+
 
 {% endfor %}-->

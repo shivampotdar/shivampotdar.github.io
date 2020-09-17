@@ -1,12 +1,6 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Shivam Mahesh Potdar
-email: shivampotdar99@gmail.com
-description: > # this means to ignore newlines until "url:"
-  Shivam's Personal Website - Bio and Projects Portfolio
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme | Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
 title: Shivam Potdar - Portfolio
 first_name: Shivam
@@ -15,9 +9,21 @@ last_name: Potdar
 email: shivampotdar99@gmail.com
 description: > # this means to ignore newlines until "url:"
   Shivam's Personal Website - Bio and Projects Portfolio
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: September 2020 # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: true
+footer_fixed: true
+# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -27,9 +33,11 @@ last_updated: September 2020 # leave blank if you don't want to display last upd
 # preview image as the value of og_image.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
+
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
+
 github_username: shivampotdar # your GitHub user name
 twitter_username: shivampotdar99 # your Twitter handle
 linkedin_username: shivampotdar99 # your LinkedIn user name
@@ -41,13 +49,14 @@ publons_id: # your ID on Publons
 research_gate_profile: Shivam_Potdar # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: 
+contact_note: >
 
 google_analytics: UA-165884310-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
+
 blog_name: Curiosity
 blog_description: I write on Medium sometimes :)
 permalink: /blog/:year/:title/
@@ -59,12 +68,7 @@ pagination:
 # Comments
 disqus_shortname:  # put your disqus shortname
 
-# Optional features
-show_social_icons:  true
-enable_anchorjs:    false
-enable_katex:       true
-
-------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
@@ -119,7 +123,7 @@ scholar:
 
   last_name: Potdar
 
-  style: ieee-with-url
+  style: chicago-fullnote-bibliography
   locale: en
 
   source: /_bibliography/
@@ -143,7 +147,7 @@ enable_google_analytics:  true
 enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
-enable_tooltips:          false
+enable_tooltips:          true
 show_social_icons:        true
 
 # -----------------------------------------------------------------------------
