@@ -17,7 +17,7 @@ description: > # this means to ignore newlines until "url:"
   Shivam's Personal Website - Bio and Projects Portfolio
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: July 2020 # leave blank if you don't want to display last updated
+last_updated: September 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
