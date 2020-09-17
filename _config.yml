@@ -101,7 +101,7 @@ scholar:
 
   last_name: Potdar
 
-  style: ieee
+  style: ieee-with-url
   locale: en
 
   sort_by: year
