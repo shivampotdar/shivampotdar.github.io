@@ -27,11 +27,9 @@ last_updated: September 2020 # leave blank if you don't want to display last upd
 # preview image as the value of og_image.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
-
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
 github_username: shivampotdar # your GitHub user name
 twitter_username: shivampotdar99 # your Twitter handle
 linkedin_username: shivampotdar99 # your LinkedIn user name
@@ -50,9 +48,8 @@ google_analytics: UA-165884310-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Curiosity
+blog_description: I write on Medium sometimes :)
 permalink: /blog/:year/:title/
 
 # Pagination
