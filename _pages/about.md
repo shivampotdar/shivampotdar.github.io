@@ -1,8 +1,8 @@
 ---
 layout: about
-title: <strong>Shivam</strong> Mahesh Potdar
+title: Shivam Mahesh Potdar
 permalink: /
-description: <a href="">Senior Year EE Undergrad @ NITK, India</a>
+description: <a href="#">Senior Year EE Undergrad @ NITK, India</a>
 
 profile:
   align: right
