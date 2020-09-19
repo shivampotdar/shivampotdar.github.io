@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-nav: true
 description: Publications in reversed chronological order.
 years: [2020]
+nav: true
 ---
 
 <div class="publications">

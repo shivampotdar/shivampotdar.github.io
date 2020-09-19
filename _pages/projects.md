@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: Projects
+nav: true
 ---
 
-Coming soon...
+Under Construction...
 
-<!--{% for project in site.projects %}
+<!--
+<div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
@@ -44,9 +46,5 @@ Coming soon...
     </a>
   </div>
 {% endfor %}
-
+-->
 </div>
-
-
-
-{% endfor %}-->

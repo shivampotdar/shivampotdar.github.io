@@ -1,8 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
 title: <strong>Shivam</strong> Mahesh Potdar
+permalink: /
 description: <a href="">Senior Year EE Undergrad @ NITK, India</a>
 
 profile:
