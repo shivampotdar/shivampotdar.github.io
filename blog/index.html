@@ -12,7 +12,7 @@ pagination:
     after: 3  # The number of links after the current page
 ---
 
-<!--
+
 <div class="post">
 
   <div class="header-bar">
@@ -20,7 +20,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
 
-
+<!--
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -30,11 +30,11 @@ pagination:
       </li>
     {% endfor %}
   </ul>
-
-  {% include pagination.html %}
-
-</div>
 -->
+
 <div id="medium-widget"></div>
-    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shivampotdar99","postsPerLine":2,"limit":100,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+  <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+  <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shivampotdar99","postsPerLine":2,"limit":100,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+</div>
+
+{% include pagination.html %}
