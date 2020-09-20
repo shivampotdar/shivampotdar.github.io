@@ -1,8 +1,10 @@
 ---
 layout: about
-title: Shivam Mahesh Potdar
+title: Shivam Potdar's Portfolio
 permalink: /
-description: <a href="#">Senior Year EE Undergrad @ NITK, India</a>
+description:  Shivam Potdar's Personal Website | Portfolio, CV, Blogs and Projects |
+              Senior Year EE Undergrad at NITK Surathkal | GSoC 2020 @ FOSSi Foundation | RA at IISc Bengaluru |
+              CPUs, Microarchitecture, RISC-V, Digital Design 
 
 profile:
   align: right

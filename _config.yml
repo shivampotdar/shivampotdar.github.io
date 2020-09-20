@@ -8,7 +8,9 @@ middle_name:
 last_name: Potdar
 email: shivampotdar99@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Shivam's Personal Website - Bio and Projects Portfolio
+  Shivam Potdar's Personal Website | Portfolio, CV, Blogs and Projects |
+  Senior Year EE Undergrad at NITK Surathkal | GSoC 2020 @ FOSSi Foundation | RA at IISc Bengaluru |
+  CPUs, Microarchitecture, RISC-V, Digital Design 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -59,7 +61,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/prof_pic.jpg
+      image: https://shivampotdar.me/assets/img/prof_pic.jpg
 
 # -----------------------------------------------------------------------------
 # Social integration
