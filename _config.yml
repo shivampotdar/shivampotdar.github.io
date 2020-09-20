@@ -8,8 +8,8 @@ middle_name:
 last_name: Potdar
 email: shivampotdar99@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Shivam Potdar's Personal Website | Portfolio, CV, Blogs and Projects |
-  Senior Year EE Undergrad at NITK Surathkal | GSoC 2020 @ FOSSi Foundation | RA at IISc Bengaluru |
+  Shivam Potdar's Personal Website -- Portfolio, CV, Blogs and Projects --
+  Senior Year EE Undergrad at NITK Surathkal -- GSoC 2020 @ FOSSi Foundation -- RA at IISc Bengaluru --
   CPUs, Microarchitecture, RISC-V, Digital Design 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

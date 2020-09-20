@@ -20,7 +20,9 @@
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
-{% seo %}
+<meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:title" content="{{ site.first_name }} {{ site.last_name }} | {% if page.title and page.url != "/" %} | {{ page.title }}" />
+{% seo title=false  %}
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
