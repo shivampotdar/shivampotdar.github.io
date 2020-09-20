@@ -32,7 +32,7 @@ footer_fixed: true
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
+#og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 
 # -----------------------------------------------------------------------------
@@ -43,7 +43,7 @@ tagline: Shivam Potdar's portfolio, blogs and projects
 author: shivampotdar99
 twitter:
   username: shivampotdar99
-  card: summary 
+  card: summary
 
 logo: /assets/img/prof_pic_sq.jpg
 
