@@ -31,7 +31,7 @@ footer_fixed: true
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
 og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -45,7 +45,7 @@ scholar_userid: wD-qlIgAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-8257-7166 # your ORCID ID
 medium_username: shivampotdar99 # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
+publons_id: 3529484 # your ID on Publons
 research_gate_profile: Shivam_Potdar # your profile on ResearchGate
 blogger_url: # your blogger URL
 
@@ -57,8 +57,8 @@ google_analytics: UA-165884310-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Curiosity
-blog_description: I write on Medium sometimes :)
+blog_name: techbytes
+blog_description: byte-sized articles about electronics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -66,7 +66,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: shivam_potdar # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -112,6 +112,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-seo-tag
   # - bootstrap
   # - material-sass
 
