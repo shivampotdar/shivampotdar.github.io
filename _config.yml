@@ -34,6 +34,33 @@ footer_fixed: true
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
+
+# -----------------------------------------------------------------------------
+# Jekyll SEO
+# -----------------------------------------------------------------------------
+
+tagline: Shivam Potdar's portfolio, blogs and projects
+author: shivampotdar99
+twitter:
+  username: shivampotdar99
+  card: summary 
+
+logo: /assets/img/prof_pic_sq.jpg
+
+social:
+  name: Shivam Potdar
+  links:
+    - https://twitter.com/shivampotdar99
+    - https://www.facebook.com/shivampotdar99
+    - https://www.linkedin.com/shivampotdar99
+    - https://github.com/shivampotdar
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/prof_pic.jpg
+
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
