@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Shivam Potdar's Portfolio
+title: About Me
 permalink: /
 description:  Shivam Potdar's Personal Website | Portfolio, CV, Blogs and Projects |
               Senior Year EE Undergrad at NITK Surathkal | GSoC 2020 @ FOSSi Foundation | RA at IISc Bengaluru |
