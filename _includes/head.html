@@ -21,9 +21,9 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:title" content="{{ site.first_name }} {{ site.last_name }} | {{ page.title }}" />
 
-{% seo title=false og:title=false %}
+{% seo title=false %}
+<meta property="og:title" content="{{ site.first_name }} {{ site.last_name }} | {{ page.title }}" />
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}

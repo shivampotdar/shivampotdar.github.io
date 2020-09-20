@@ -6,6 +6,9 @@ description:  Shivam Potdar's Personal Website | Portfolio, CV, Blogs and Projec
               Senior Year EE Undergrad at NITK Surathkal | GSoC 2020 @ FOSSi Foundation | RA at IISc Bengaluru |
               CPUs, Microarchitecture, RISC-V, Digital Design 
 
+seo:
+  type: Person
+
 profile:
   align: right
   image: prof_pic.jpg
