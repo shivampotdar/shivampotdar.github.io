@@ -42,6 +42,12 @@
             </a>
           </li>
           {% endif %}
+          <!-- My custom blog-->
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+            <a class="nav-link" href="https://blog.shivampotdar.me">
+              blog
+            </a>
+          </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
