@@ -5,6 +5,7 @@ title: learning
 description: Links to great course materials I have followed in the past.
 datatable: true
 nav: true
+order: 4
 ---
 
 <table id="tabled_id" class="display">

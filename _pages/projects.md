@@ -4,6 +4,7 @@ title: projects
 permalink: /projects/
 description: Projects
 nav: true
+order: 2
 ---
 
 Under Construction...
