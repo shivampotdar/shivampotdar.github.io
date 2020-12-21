@@ -20,6 +20,14 @@ order: 3
     </thead>
     <tbody>
         <tr>
+            <td>Dec 22, 2020</td>
+            <td>Hacking Your Career (with hardware, academics, research and open-source)</td>
+            <td>IEEE NITK Chapter</td>
+            <td>Insight on opportunities in Electrical Engineering</td>
+            <td><a href="/assets/pdf/slides/2020dec_22_ieee_insight.pdf">Slides</a><br>
+            </td>
+        </tr>
+        <tr>
             <td>Oct 10, 2020</td>
             <td>Experimenting with Open ISAs</td>
             <td>OpenPOWER Developer Community</td>
