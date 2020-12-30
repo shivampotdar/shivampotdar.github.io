@@ -20,6 +20,14 @@ order: 3
     </thead>
     <tbody>
         <tr>
+            <td>Dec 28, 2020</td>
+            <td>Career Guidance on ECE / EEE for KLE Technological University</td>
+            <td>BVB IEEE Student Branch</td>
+            <td>Interaction with KLETech students about EE-related career paths</td>
+            <td><a href="/assets/pdf/slides/2020dec_28_bvbieee_career.pdf">Slides</a><br>
+            </td>
+        </tr>    
+        <tr>
             <td>Dec 22, 2020</td>
             <td>Hacking Your Career (with hardware, academics, research and open-source)</td>
             <td>IEEE NITK Chapter</td>
