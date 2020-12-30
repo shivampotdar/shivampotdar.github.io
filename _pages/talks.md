@@ -20,7 +20,7 @@ order: 3
     </thead>
     <tbody>
         <tr>
-            <td>Dec 28, 2020</td>
+            <td data-sort="20201228">Dec 28, 2020</td>
             <td>Career Guidance on ECE / EEE for KLE Technological University</td>
             <td>BVB IEEE Student Branch</td>
             <td>Interaction with KLETech students about EE-related career paths</td>
@@ -28,7 +28,7 @@ order: 3
             </td>
         </tr>    
         <tr>
-            <td>Dec 22, 2020</td>
+            <td data-sort="20201222">Dec 22, 2020</td>
             <td>Hacking Your Career (with hardware, academics, research and open-source)</td>
             <td>IEEE NITK Chapter</td>
             <td>Insight on opportunities in Electrical Engineering</td>
@@ -36,7 +36,7 @@ order: 3
             </td>
         </tr>
         <tr>
-            <td>Oct 10, 2020</td>
+            <td data-sort="20201010">Oct 10, 2020</td>
             <td>Experimenting with Open ISAs</td>
             <td>OpenPOWER Developer Community</td>
             <td>Simulation with OpenPOWER Microwatt and Open-Source hardware projects</td>
@@ -45,7 +45,7 @@ order: 3
             </td>
         </tr>
         <tr>
-            <td>Jul 30, 2020</td>
+            <td data-sort="20200730">Jul 30, 2020</td>
             <td>Open ISAs, Hardware and Innovation Opportunities</td>
             <td>OpenPOWER Developer Community</td>
             <td>OpenPOWER ISA, cores and potential projects</td>            
@@ -53,14 +53,14 @@ order: 3
             <a href="https://youtu.be/5UveNHW_Zi0?t=2077">Video</a></td>
         </tr>
         <tr>
-            <td>May 9, 2020</td>
+            <td data-sort="20200509">May 9, 2020</td>
             <td>Embedded Systems and IoT - Moving Ahead</td>
             <td>ACM NITK Chapter</td>
             <td>For beginners to get started with IoT and Embedded Systems</td>            
             <td><a href="/assets/pdf/slides/2020may_9_emsys.pdf">Slides</a></td>
         </tr>
         <tr>
-            <td>Jan 4, 2020</td>
+            <td data-sort="20200104">Jan 4, 2020</td>
             <td>Conceptualization and Design of Remotely Accessible Hardware Interface (RAHI) Lab</td>
             <td>FICTA-2020</td>
             <td>Paper presentation</td>            
