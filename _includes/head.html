@@ -25,6 +25,18 @@
 {% seo title=false %}
 <meta property="og:title" content="{{ site.first_name }} {{ site.last_name }} | {{ page.title }}" />
 
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "email": "shivampotdar99@gmail.com",
+      "name": "Shivam Potdar",
+      "url": "https://shivampotdar.me",
+      "sameAs": "https://www.wikidata.org/wiki/Q101486386",
+      "mainEntity": "https://www.wikidata.org/wiki/Q101486386"
+    }
+  </script>
+
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
 <meta property="og:site_name" content="{{ site.description }}" />
