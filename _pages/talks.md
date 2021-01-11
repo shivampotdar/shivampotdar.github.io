@@ -76,7 +76,8 @@ window.onload = function()
     $('#tabled_id').DataTable({
         paging: true,
         searching: true,
-        autoWidth: true
+        autoWidth: true,
+        order: [[0, "desc"]]
         }); 
 }
 </script>
