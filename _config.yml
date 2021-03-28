@@ -62,7 +62,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://shivampotdar.me/assets/img/prof_pic.jpg
+      image: https://shivampotdar.tech/assets/img/prof_pic.jpg
 
 # -----------------------------------------------------------------------------
 # Social integration
