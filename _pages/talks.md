@@ -33,6 +33,7 @@ order: 3
             <td>IEEE NITK Chapter</td>
             <td>Insight on opportunities in Electrical Engineering</td>
             <td><a href="/assets/pdf/slides/2020dec_22_ieee_insight.pdf">Slides</a><br>
+            <a href="https://youtu.be/D4BBHsh62rg?t=194">Video</a>
             </td>
         </tr>
         <tr>

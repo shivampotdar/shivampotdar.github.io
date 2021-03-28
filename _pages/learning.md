@@ -33,8 +33,14 @@ order: 4
         <tr>
             <td>VSD - Pipelining RISC-V with Transaction-Level Verilog</td>
             <td>Udemy</td>
-            <td>Introduction to the revolutionary and upcoming Transaction-Level Verilog (feat. Steve Hoover, my GSoC mentor)</td>            
+            <td>Introduction to the revolutionary and upcoming Transaction-Level Verilog (by Steve Hoover, my GSoC '20 mentor)</td>            
             <td><a href="https://www.udemy.com/course/vsd-pipelining-risc-v-with-transaction-level-verilog/">Udemy</a></td>
+        </tr>
+        <tr>
+            <td>Customising a RISC-V Core</td>
+            <td>Graham Markall, OSHCamp 2019</td>
+            <td>Great resource for understanding the structure of the RI5CY (CV32E40P) RISC-V core from ETH Zurich/OpenHW Group</td>            
+            <td><a href="https://gmarkall.wordpress.com/teaching/">Website</a></td>
         </tr>
     </tbody>
 </table>
