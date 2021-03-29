@@ -7,6 +7,9 @@ nav: true
 order: 5
 ---
 
+<blockquote class="embedly-card" data-card-controls='0'><h4><a href="https://www.vlsisystemdesign.com/learn-tl-verilog-and-risc-v/">Learn TL-Verilog and RISC-V</a></h4><p>RISC-V is one of the hottest buzzwords in the semiconductor industry. One might wonder why people are talking about a new ISA (Instruction Set Architecture) when the concept is decades old.</p></blockquote>
+
+
 <blockquote class="embedly-card" data-card-controls='0'><h4><a href="https://riscv.org/blog/2020/09/risc-v-a-playground-for-game-changing-design-methodologies/">RISC-V: A Playground for Game-changing Design Methodologies - RISC-V International</a></h4><p>One of the most exciting aspects of RISC-V is that it provides an open playground for new ideas across multiple domains. It has become the go-to for architectural innovations like OpenTitan and for exhibiting new HDLs like Chisel (Rocket chip, SiFive cores), SpinalHDL (VexRiscv), BlueSpec (Shakti processors), etc.</p></blockquote>
 
 <blockquote class="embedly-card" data-card-controls='0'><h4><a href="https://twitter.com/surathkal_nitk/status/1301378601162481665">NITK Surathkal Official - Twitter</a></h4><p>Shivam Potdar Final yr BTech(EEE) student was awarded the prestigious DACYoungFellowScholarship for attending 57th Design & AutomationConference2020 held virtually during July20-24 2020
